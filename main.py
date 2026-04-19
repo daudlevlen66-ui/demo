@@ -1,0 +1,7 @@
+print("Hello world!")
+print("This is a simple Python program.")
+print("It demonstrates basic print statements.")    
+print("You can run this code to see the output.")
+name=input("What is your name? ")
+print("Nice to meet you, " + name + "!")
+print('hii')
